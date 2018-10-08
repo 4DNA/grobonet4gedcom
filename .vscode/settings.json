@@ -1,0 +1,14 @@
+{
+    "workbench.colorTheme": "Monokai Dimmed",
+    "workbench.iconTheme": "material-icon-theme",
+    "gitTreeCompare.iconsMinimal": true,
+    "vscode-json-editor.theme": "dark",
+    "csv-preview.theme": "material",
+    "material-icon-theme.activeIconPack": "angular_ngrx",
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+    "editor.find.autoFindInSelection": true,
+    "editor.smoothScrolling": true,
+    "editor.stablePeek": true,
+    "editor.parameterHints.cycle": true
+}

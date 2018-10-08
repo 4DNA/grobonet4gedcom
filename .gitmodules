@@ -1,0 +1,6 @@
+[submodule "IMPORT-GROBONET"]
+	path = IMPORT-GROBONET
+	url = https://github.com/4DNA/grobonet4gedcom-import.git
+[submodule "EXPORT-GEDCOM"]
+	path = EXPORT-GEDCOM
+	url = https://github.com/4DNA/grobonet4gedcom-export.git
